@@ -1,0 +1,16 @@
+configuração do git:
+git config --global user.name llfrancaa
+git config --global user.email lucasurc@hotmail.com
+
+criar um projeto angular:
+ng new ToDo
+
+Executar o projeto:
+cd ToDo
+ng server -o
+
+Criar um componente:
+ng generate component todo-list 
+
+Adicionar o Bootstrap (Node Modules):
+npm i bootstrap
